@@ -1,0 +1,17 @@
+.pagenotfound-container {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 100px;
+}
+
+.pagenotfound-img {
+	background-image: url('../assets/image/oops.PNG');
+	background-repeat: no-repeat;
+	height: 500px;
+	width: 650px;
+}
+
+.pagenotfound-btn {
+	margin-top: -250px;
+}
